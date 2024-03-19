@@ -2,7 +2,7 @@ from tkinter import *
 from random import randint
 
 a = Tk()
-a.title('The dietician')
+a.title('Health Pass')
 
 
 def BMR():
